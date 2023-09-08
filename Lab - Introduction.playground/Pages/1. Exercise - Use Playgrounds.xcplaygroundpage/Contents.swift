@@ -11,12 +11,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
 print("The Night We Met by Lord Huron")
+
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
 print("oh take me back")
 print("to the night we met")
 print("I had all of you, most of you, some and now most of you")
+
 
 
 /*:
